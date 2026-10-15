@@ -1,0 +1,1 @@
+Day 1 [October 14th, 2026] = Starting a research project using NASA’s public spaceflight biology data. Plan: compare gene-activity data from plants on different space missions to see if there’s a pattern that shows up more than once. Today: made the GitHub repo and wrote this first entry, signed up for GL4U enrollment, to be decided and accesible in 24-48 hours. 
